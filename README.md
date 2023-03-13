@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, I'm [Randi Dochot](https://mycv.dochot.be)
+#### I'm a student in computer science in Belgium.
 
-<!--
-**Randi-Dcht/Randi-Dcht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How I go started ?
+- I start to learn programming with arduino and raspberry pi during my free time.
+- After that I start to learn C and C++ and I love it.
+- Then I start university and I learn Java, Python and I learn a lot of things about computer science.
+- And now I'm learning on cyberSecurity and I love it too.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me 🤔 (few words about me)
+- 🌱 I’m currently learning on cyberSecurity
+- 💬 Ask me about security and programming
+- 📫 How to reach me ? with my email : dev@dochot.be (public email)
+- ⚡ Fun fact: I love to code in C and C++ ;-) 
