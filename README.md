@@ -31,18 +31,15 @@
 
 
 <details>
-  <summary>📊 My Github Stats</summary>
+  <summary>📊 My GitHub Stats</summary>
   <img align="left" alt="Randi Dochot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randi-dcht&show_icons=true&hide_border=true" />
 </details>
 
 <br>
-
-<details>
-  <summary>📈 My OS and computers</summary>
+<summary>📈 My OS and computers</summary>
   <ul>
      <li>principal OS : <strong>Ubuntu 22.04 LTS</strong> on Dell XPS</li>
      <li>secondary OS : <strong>Mac OS Ventura 13</strong> on MacBook Air M2</li>
      <li>my assistant : <strong>Github Copilot</strong></li>
      <li>code editor : <strong>IntelliJ IDEA Suite</strong></li>
   </ul>
-</details>
