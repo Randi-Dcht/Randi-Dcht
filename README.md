@@ -17,15 +17,25 @@
 - 📫 How to reach me ? on my [website](https://dochot.be) or my public email.
 - ⚡ Fun fact: I love to code in C and C++ ;-) 
 
+
+## My current concerns 🤔 :
+
+- [x] My first concern is the privacy of my data on the internet.
+
+(I use a lot of tools to protect my privacy as open software and I try not to use software of GAMA)
+
+- [x] My second concern is the security of my data.
+
 ---
-<br><br><br>
+<br>
 
 
 <details>
   <summary>📊 My Github Stats</summary>
-  <br/>
   <img align="left" alt="Randi Dochot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randi-dcht&show_icons=true&hide_border=true" />
 </details>
+
+<br>
 
 <details>
   <summary>📈 My OS and computers</summary>
