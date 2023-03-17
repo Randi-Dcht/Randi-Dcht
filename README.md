@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm [Randi Dochot](https://mycv.dochot.be)
-#### I'm a student in computer science in Belgium.
+#### I'm a student in computer sciences in Belgium.
 
 ---
 <p align="center">
@@ -54,7 +54,7 @@
 
 - [x] My first concern is the privacy of my data on the internet.
 
-(I use a lot of tools to protect my privacy as open software and I try not to use software of GAMA)
+(I use a lot of tools to protect my privacy as open software and I try not to use software of Google, Meta, ...
 
 - [x] My second concern is the security of my data.
 
