@@ -36,7 +36,7 @@
 
 ---
 
-## How I go started ?
+## Here is how I started ?
 - I start to learn programming with arduino and raspberry pi during my free time.
 - After that I start to learn C and C++ and I love it.
 - Then I start university and I learn Java, Python and I learn a lot of things about computer science.
