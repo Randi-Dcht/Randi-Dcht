@@ -1,5 +1,5 @@
-### Hi there 👋, I'm [Randi Dochot](https://mycv.dochot.be)
-#### I'm a student in computer sciences in Belgium.
+### Bonjour 👋, Je suis [Randi Dev](https://mycv.dochot.be)
+#### Je suis étudiant en sciences informatique à l'Umons. / I'm a student in computer science at Umons.
 
 ---
 <p align="center">
@@ -36,42 +36,67 @@
 
 ---
 
-## Here is how I started ?
-- I start to learn programming with arduino and raspberry pi during my free time.
-- After that I start to learn C and C++ and I love it.
-- Then I start university and I learn Java, Python and I learn a lot of things about computer science.
-- And now I'm learning on cyberSecurity and I love it too.
+## Comment j'ai évolué dans le développement 🤔 :
+- J'ai commencé à coder en 2016 avec le langage C sur des arduino.
+- Ensuite j'ai appris le Python, Sql et le Java à l'université.
+- Pour le reste, j'ai appris le C++, le C#, le PHP, le HTML, le CSS, le Go, le Rust et le JavaScript en autodidacte.
+- J'ai aussi appris à utiliser des outils comme Docker, Git, Github, Nginx, Apache, ...
 
 
-## About me 🤔 (few words about me)
-- 🌱 I’m currently learning on cyberSecurity
-- 💬 Ask me about security and programming
-- 📫 How to reach me ? on my [website](https://dochot.be) or my public email.
-- ⚡ Fun fact: I love to code in C and C++ ;-) 
+## A propos de moi 🤔 (en quelques mots ;) :
+- 🌱 Je continue d'apprendre le développement et la sécurité informatique en autodidacte via des livres et des cours en ligne.
+- 💬 J'aime discuter de développement, de sécurité informatique et de réseau.
+- 📫 Comment me contacter ?  via mon [website](https://dochot.be).
+- ⚡ Fun fact: J'adore coder en C, la nuit, jusqu'à trouver une solution à mon problème.
 
 
-## My current concerns 🤔 :
+## Ce qui m'intéresse actuellement 🤔 :
 
-- [x] My first concern is the privacy of my data on the internet.
+- [x] Je m'intéresse de très près au web 3.0 ainsi qu'aux projets de décentralisation.
+- [x] Je m'intéresse aussi à la sécurité informatique et au développement d'outils de sécurité.
+- [x] Je m'intéresse aussi à la programmation sur des nouveaux langages comme le Rust, le Go, le Kotlin, ...
 
-(I use a lot of tools to protect my privacy as open software and I try not to use software of Google, Meta, ...
 
-- [x] My second concern is the security of my data.
+<br>
+<br>
+<summary>📈 Mes ordinateurs :</summary>
+  <ul>
+     <li>OS principal : <strong>Ubuntu 22.04 LTS</strong> on Dell XPS</li>
+     <li>OS secondaire : <strong>Mac OS Sonoma 14</strong> on MacBook Air M2</li>
+     <li>mon assistant : <strong>Github Copilot</strong></li>
+     <li>code editor : <strong>IntelliJ IDEA Suite</strong> && <strong>VIM</strong></li>
+  </ul>
 
 ---
+
+## How I evolved in development 🤔 :
+- I started coding in 2016 with the C language on arduino.
+- Then I learned Python, Sql and Java at university.
+- For the rest, I learned C++, C#, PHP, HTML, CSS, Go, Rust and JavaScript on my own.
+- I also learned to use tools like Docker, Git, Github, Nginx, Apache, ...
+
+
+## About me 🤔 (in a few words ;) :
+- 🌱 I continue to learn development and computer security on my own through books and online courses.
+- 💬 I like to discuss development, computer security and networking.
+- 📫 How to contact me ? on my [website](https://dochot.be).
+- ⚡ Fun fact: I love coding in C, at night, until I find a solution to my problem.
+
+
+## What I'm currently interested in 🤔 :
+
+- [x] I am very interested in web 3.0 and decentralization projects.
+- [x] I am also interested in computer security and the development of security tools.
+- [x] I am also interested in programming on new languages like Rust, Go, Kotlin, ...
+
 <br>
-
-
-<details>
-  <summary>📊 My GitHub Stats</summary>
-  <img align="left" alt="Randi Dochot's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Randi-dcht&show_icons=true&hide_border=true" />
-</details>
-
 <br>
-<summary>📈 My OS and computers</summary>
+<summary>📈 Computer :</summary>
   <ul>
-     <li>principal OS : <strong>Ubuntu 22.04 LTS</strong> on Dell XPS</li>
-     <li>secondary OS : <strong>Mac OS Ventura 13</strong> on MacBook Air M2</li>
+     <li>primary OS : <strong>Ubuntu 22.04 LTS</strong> on Dell XPS</li>
+     <li>secondary OS : <strong>Mac OS Sonoma 14</strong> on MacBook Air M2</li>
      <li>my assistant : <strong>Github Copilot</strong></li>
-     <li>code editor : <strong>IntelliJ IDEA Suite</strong></li>
+     <li>code editor : <strong>IntelliJ IDEA Suite</strong> && <strong>VIM</strong></li>
   </ul>
+
+---
