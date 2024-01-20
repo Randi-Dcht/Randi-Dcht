@@ -61,8 +61,7 @@
 <br>
 <summary>📈 Mes ordinateurs :</summary>
   <ul>
-     <li>OS principal : <strong>Ubuntu 22.04 LTS</strong> on Dell XPS</li>
-     <li>OS secondaire : <strong>Mac OS Sonoma 14</strong> on MacBook Air M2</li>
+     <li>OS principal : <strong>Mac OS Sonoma 14</strong> on MacBook M2</li>
      <li>mon assistant : <strong>Github Copilot</strong></li>
      <li>code editor : <strong>IntelliJ IDEA Suite</strong> && <strong>VIM</strong></li>
   </ul>
@@ -93,8 +92,7 @@
 <br>
 <summary>📈 Computer :</summary>
   <ul>
-     <li>primary OS : <strong>Ubuntu 22.04 LTS</strong> on Dell XPS</li>
-     <li>secondary OS : <strong>Mac OS Sonoma 14</strong> on MacBook Air M2</li>
+     <li>primary OS : <strong>Mac OS Sonoma 14</strong> on MacBook M2</li>
      <li>my assistant : <strong>Github Copilot</strong></li>
      <li>code editor : <strong>IntelliJ IDEA Suite</strong> && <strong>VIM</strong></li>
   </ul>
