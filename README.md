@@ -1,5 +1,5 @@
 ### Bonjour 👋, Je suis [Randi Dev](https://mycv.dochot.be)
-#### Je suis étudiant en sciences informatique à l'Umons. / I'm a student in computer science at Umons.
+#### Je suis en formation informatique à Mons. / I'm a student in computer at Mmons.
 
 ---
 <p align="center">
